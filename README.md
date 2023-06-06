@@ -1,9 +1,5 @@
 <a name="readme-top"></a>
 
-<div align="center">
-  <img src="" alt="Me&Ai logo" width="140"  height="auto" />
-  <br/>
-
   <h3><b>Hello Microverse</b></h3>
 </div>
 
@@ -51,13 +47,6 @@
 
 
 - **[A header with a purple text "Hello Microverse!"]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link](https://github.com/medijdir/hello-microverse/tree/branch_hello)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -111,9 +100,9 @@ Live Preview on Visual Studio Code
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
->Portfolio homepage
->About Me section
->Contact section
+- Portfolio homepage
+- About Me sectiongit
+- Contact section
 
 ## 🤝 Contributing <a name="contributing"></a>
 
